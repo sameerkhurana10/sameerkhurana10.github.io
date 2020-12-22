@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Machine Learning Diary
-description: Notes 
-github_username: sameerkhurana10
+description:
+github_username:
 
 # Email and twitter are optional:
-email: sameerkhurana10@gmail.com
+email: skhurana@mit.edu
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
