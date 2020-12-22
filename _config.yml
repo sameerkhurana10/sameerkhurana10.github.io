@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Machine Learning Diary
+title: Machine Learning Blog
 description:
 github_username:
 
@@ -26,7 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
-  - jekyll-github-metadata
+  # - jekyll-github-metadata
 
 titles_from_headings:
   enabled:     true
